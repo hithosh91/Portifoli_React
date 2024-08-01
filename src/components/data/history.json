@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Full Stack web developer",
+    "client": "LEGO insider club",
+    "organisation": "kenfill ltd",
+    "startDate": "june, 2022",
+    "endDate": "Present",
+    "experiences": ["Working on ecommerce website using Mern stack"],
+    "imageSrc": "skills/Lego.png"
+  },
+  {
+    "role": "Software Engineer - intern",
+    "organisation": "Simplior technologies ltd",
+    "startDate": "01, 202",
+    "endDate": "06, 2022",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "skills/simp.png"
+  }
+]
