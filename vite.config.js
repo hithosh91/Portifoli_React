@@ -9,4 +9,8 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
+  server: {
+    host: "0.0.0.0",
+    port: 3000, // Use the PORT environment variable or fallback to 3000
+  },
 });
